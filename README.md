@@ -74,7 +74,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 ### Host it on VPS or Locally
 
 ```sh
-git clone https://github.com/P-Phreak/Pyro-FileStreamBot
+git clone https://github.com/MrAbhi2k3/Pyro-FileStreamBot
 cd TG-FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
