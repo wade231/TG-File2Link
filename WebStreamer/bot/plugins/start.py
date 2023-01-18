@@ -179,8 +179,8 @@ async def help_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("⭕ Channel ⭕", url="https://t.me/TeleRoidGroup"), InlineKeyboardButton("😇 Support", url="https://t.me/TeleRoid14")],
-                [InlineKeyboardButton("🚸 Powered By ", url="https://t.me/MoviesFlixers_DL"), InlineKeyboardButton("💰 Donate", url="https://paypal.me/AbhishekKumarIN47")],
-                [InlineKeyboardButton("👨‍💻 Developer", url="https://t.me/SingleMachiVision")]
+                [InlineKeyboardButton("🚸 Powered By ", url="https://t.me/MoviesFlixers_DL"), InlineKeyboardButton("💰 Donate", url="https://t.me/Donatexrobot")],
+                [InlineKeyboardButton("👨‍💻 Developer", url="https://t.me/OwnYourBotz")]
             ]
         )
     )
@@ -234,7 +234,7 @@ async def about_handler(bot, message):
 │
 ├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>@TeleRoidGroup</a></b>
 │
-├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
+├<b>👥 Version : <a href='https://t.me/Indiko_Tech'>0.9.2 beta</a></b>
 │
 ├<b>💢 Source : <a href='https://github.com/PredatorHackerzZ/TG-File2Link'>Click Here</a></b>
 │
@@ -244,9 +244,9 @@ async def about_handler(bot, message):
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.9</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>꧁ ƤℜɆĐ₳₮Øℜ 🇮🇳 ꧂</a></b>
+├<b>👨‍💻 Developer : <a href='https://github.com/PredatorHackerZ'>꧁ ƤℜɆĐ₳₮Øℜ 🇮🇳 ꧂</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
+├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>SingleMachiVision</a></b>
 │
 ╰─────────[Thanks 😊]────────⍟""",
   parse_mode="html",
@@ -254,7 +254,7 @@ async def about_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("🚸 Powered By ", url="https://t.me/MoviesFlixers_DL"), InlineKeyboardButton("💰 Donate", url="https://paypal.me/AbhishekKumarIN47")],
-                [InlineKeyboardButton("Need Private Bot ❓", url="https://t.me/SingleMachiVision")]
+                [InlineKeyboardButton("Need Private Bot ❓", url="https://t.me/OwnYourBotz")]
             ]
         )
     )
